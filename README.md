@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stefan Køhler
+👋 Hi, I’m Stefan Køhler
 
 
 <!---
