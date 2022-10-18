@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stefan Køhler (@S13F4NX)
+- 👋 Hi, I’m Stefan Køhler
 
 
 <!---
